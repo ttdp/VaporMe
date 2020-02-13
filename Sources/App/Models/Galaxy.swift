@@ -26,5 +26,4 @@ final class Galaxy: Model, Content {
         self.id = id
         self.name = name
     }
-    
 }

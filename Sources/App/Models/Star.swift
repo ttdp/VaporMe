@@ -27,5 +27,4 @@ final class Star: Model, Content {
         self.name = name
         self.$galaxy.id = galaxyID
     }
-    
 }
